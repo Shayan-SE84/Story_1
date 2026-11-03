@@ -1,0 +1,6 @@
+{
+  "name": "The Girl in Room 13",
+  "description": "An interactive psychological horror narrative, security camera investigation, and archival case dossier chronicling the disappearance of Daniel and the mystery of Room 13.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
